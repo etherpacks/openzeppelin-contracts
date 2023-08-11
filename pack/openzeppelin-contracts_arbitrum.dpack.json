@@ -1,0 +1,13 @@
+{
+  "format": "dpack-1",
+  "network": "arbitrum",
+  "types": {
+    "TimelockController": {
+      "typename": "TimelockController",
+      "artifact": {
+        "/": "bafkreibp3nnht2tmi2tou5p2yizz3ocgnha4jcstlbotkbbj44p6fbscvu"
+      }
+    }
+  },
+  "objects": {}
+}
